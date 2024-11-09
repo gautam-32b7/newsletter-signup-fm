@@ -1,4 +1,4 @@
-## Recipe Page
+## Newsletter Signup
 
 This is my solution for the "Newsletter Signup" challenge on [Frontend Mentor](https://www.frontendmentor.io/challenges/newsletter-signup-form-with-success-message-3FC1AZbNrv), where I build a responsive recipe webpage.
 
