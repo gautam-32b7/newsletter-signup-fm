@@ -1,0 +1,21 @@
+/* 384px */
+@media (max-width: 384px) {
+  .signup {
+    margin: 0;
+    width: 100%;
+    flex-direction: column-reverse;
+    padding: 0;
+    border-radius: 0;
+  }
+
+  .content {
+    padding: 1.6rem;
+  }
+
+  /* success */
+  .success {
+    margin: 0;
+    width: 100%;
+    border-radius: 0;
+  }
+}
